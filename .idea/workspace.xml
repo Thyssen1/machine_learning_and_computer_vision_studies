@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="84181e05-d83a-4fad-a8f1-ec35e87ab461" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="84181e05-d83a-4fad-a8f1-ec35e87ab461" name="Changes" comment="Added solution to 1.5.7 in Pishro-Nik" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Thyssen1/machine_learning_and_computer_vision_studies.git",
+    "accountId": "84b2cd7e-131c-48be-a30e-5665e30dfe84"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -48,6 +52,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729106529076</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added solution to 1.5.7 in Pishro-Nik">
+      <option name="closed" value="true" />
+      <created>1729420256172</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729420256172</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added solution to 1.5.7 in Pishro-Nik" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added solution to 1.5.7 in Pishro-Nik" />
   </component>
 </project>
